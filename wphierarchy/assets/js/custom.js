@@ -1,0 +1,1 @@
+window.alert('js is added manually');
