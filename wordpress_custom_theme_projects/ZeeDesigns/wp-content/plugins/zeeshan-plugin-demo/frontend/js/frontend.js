@@ -1,0 +1,1 @@
+// alert('frontend side js is loaded');

@@ -1,0 +1,16 @@
+/*
+Theme Name: new theme
+Author: Ali Hassan
+Author URI: https://devcauses.com/
+Description: Demo Theme for Wordpress new theme
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, one-column, custom-background, custom-colors, custom-logo, custom-menu, editor-style
+Text Domain: newtheme
+*/
+
+body {
+  background-color: #73ee68;
+  font-family: "Open Sans", sans-serif;
+}
